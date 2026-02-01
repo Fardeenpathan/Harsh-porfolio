@@ -7,10 +7,10 @@ export const PERSONAL_INFO = {
   linkedin: 'https://www.linkedin.com/in/harsh-kumar-49195b3a1/',
   github: 'https://github.com/Harsh Kumar-1125',
   resume: '/Harsh-kumar_Resume.pdf',
-  yearsOfExperience: 2,
+  yearsOfExperience: 5,
   projectsCompleted: 25,
   technologiesMastered: 20,
-  clientsSatisfied: 15
+  clientsSatisfied: 100%
 }
 
 export const EXPERIENCE_DATA = [

@@ -86,7 +86,7 @@ export default function HeroSection() {
                   4000,
                   'a  Software Engineer',
                   3000,
-                  'a Full-Stack Developer',
+                  'a web & App Developer',
                   3000,
                   'a Problem Solver',
                   3000,
@@ -104,7 +104,7 @@ export default function HeroSection() {
               }`}
               variants={ANIMATION_VARIANTS.fadeInUp}
             >
-              {PERSONAL_INFO.title} at <span className="text-blue-600 font-bold">Dvertex Info Private Limited</span>
+               Freelance <span className="text-blue-600 font-bold">{PERSONAL_INFO.title}</span>
             </motion.div>
 
             <motion.div

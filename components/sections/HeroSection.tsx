@@ -19,7 +19,7 @@ export default function HeroSection() {
   }
 
   return (
-    <section id="home" className={`pt-16 min-h-screen flex items-center relative overflow-hidden transition-colors duration-300 ${
+    <section id="home" className={`pt-24 min-h-screen flex items-center relative overflow-hidden transition-colors duration-300 ${
       isDarkMode 
         ? 'bg-gradient-to-br from-gray-900 via-gray-800 to-blue-900' 
         : 'bg-gradient-to-br from-slate-50 via-white to-blue-50'

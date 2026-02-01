@@ -58,7 +58,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
         </div>
 
         <div className="relative z-10 text-center">
-          {/* NB Logo Animation */}
+          {/* HK Logo Animation */}
           <motion.div
             className="relative mb-8"
             initial={{ scale: 0, rotate: -180 }}
@@ -90,7 +90,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
                 }}
               />
               
-              {/* Inner NB Text */}
+              {/* Inner HK Text */}
               <motion.div
                 className="absolute inset-0 flex items-center justify-center"
                 initial={{ opacity: 0, scale: 0 }}

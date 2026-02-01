@@ -38,7 +38,7 @@ export default function Footer() {
           >
             <div className="flex items-center mb-4">
               <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-lg">NB</span>
+                <span className="text-white font-bold text-lg">HK</span>
               </div>
               <span className={`ml-3 text-xl font-bold ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>
                 {PERSONAL_INFO.name}

@@ -62,7 +62,7 @@ export default function AboutSection() {
             }`}>
               <p>
                 I am a <span className="font-semibold text-blue-600"> Software Engineer</span> with over 
-                <span className="font-semibold"> 2 years of professional experience</span> in designing, developing, and optimizing 
+                <span className="font-semibold"> 5 years of professional experience</span> in designing, developing, and optimizing 
                 enterprise-grade web applications that deliver real business value.
               </p>
               

@@ -103,7 +103,9 @@ colors: {
 - Modify project details and descriptions
 - Add your actual resume/CV
 
-## 📱 Responsive Breakpoints
+## 📱 Responsive Breakpoints   
+
+
 
 - **Mobile**: < 768px
 - **Tablet**: 768px - 1024px  

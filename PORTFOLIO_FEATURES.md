@@ -47,11 +47,6 @@
    - Bal Bharti Public School, Pratap Vihar, Ghaziabad (2018-2020)
    - Science Stream with Computer Science
 
-### 📥 **Resume Download**
-- One-click PDF download functionality
-- Downloads your actual resume: `Harsh-kumar_Resume.pdf`
-- Available in hero section and contact area
-
 ### 🎨 **Design Improvements**
 - Gradient backgrounds and animations
 - Professional color schemes for both themes

@@ -2,11 +2,11 @@
 
 import { motion } from 'framer-motion'
 import { TypeAnimation } from 'react-type-animation'
-import { ExternalLink, Download, Github, Linkedin, Mail, ChevronDown } from 'lucide-react'
+import { ExternalLink, Github, Linkedin, Mail, ChevronDown } from 'lucide-react'
 import { useTheme } from '@/lib/ThemeContext'
 import { PERSONAL_INFO, SOCIAL_LINKS } from '@/constants/data'
 import { ANIMATION_VARIANTS } from '@/constants/animations'
-import { downloadResume, scrollToSection } from '@/lib/utils'
+import {  scrollToSection } from '@/lib/utils'
 import CountUp from 'react-countup'
 
 export default function HeroSection() {
@@ -122,7 +122,7 @@ export default function HeroSection() {
               }`}
               variants={ANIMATION_VARIANTS.fadeInUp}
             >
-              Results-driven Software Engineer with <span className="font-semibold text-blue-600">2+ years</span> of experience 
+              Results-driven Software Engineer with <span className="font-semibold text-blue-600">5+ years</span> of experience 
               building <span className="font-semibold">enterprise-grade web applications</span> that serve <span className="font-semibold">10,000+ users</span>. 
               Currently leading technical initiatives at Dvertex Info, with prior experience at <span className="font-semibold">Siemens Energy</span>. 
               Specialized in creating scalable solutions that deliver measurable business impact and drive revenue growth.
@@ -174,21 +174,7 @@ export default function HeroSection() {
                 </span>
               </motion.button>
 
-              <motion.button
-                onClick={downloadResume}
-                className={`group px-6 py-3 sm:px-8 sm:py-4 border-2 rounded-xl font-semibold transition-all duration-300 ${
-                  isDarkMode 
-                    ? 'border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-gray-900' 
-                    : 'border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white'
-                }`}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <span className="flex items-center justify-center">
-                  <Download className="w-4 h-4 sm:w-5 sm:h-5 mr-2 group-hover:animate-bounce" />
-                  Download Resume
-                </span>
-              </motion.button>
+             
             </motion.div>
 
             {/* Social Links */}

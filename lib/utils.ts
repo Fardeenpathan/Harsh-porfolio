@@ -3,7 +3,6 @@ import { PERSONAL_INFO } from '@/constants/data'
 export const downloadResume = () => {
   const link = document.createElement('a')
   link.href = PERSONAL_INFO.resume
-  link.download = 'Harsh Kumar_Baluni_Resume.pdf'
   document.body.appendChild(link)
   link.click()
   document.body.removeChild(link)

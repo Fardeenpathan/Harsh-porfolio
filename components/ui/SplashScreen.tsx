@@ -152,14 +152,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
                   Harsh Kumar
                 </motion.span>
                 {' '}
-                <motion.span
-                  className="inline-block bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"
-                  initial={{ y: 20, opacity: 0 }}
-                  animate={{ y: 0, opacity: 1 }}
-                  transition={{ delay: 0.3, duration: 0.5 }}
-                >
-                  Baluni
-                </motion.span>
+                
               </motion.h1>
             )}
           </AnimatePresence>

@@ -209,9 +209,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Harsh Kumar**
-- LinkedIn: [Harsh Kumar-baluni-0a7438207](https://www.linkedin.com/in/harsh-kumar-49195b3a1/)
+- LinkedIn: [Harsh Kumar-0a7438207](https://www.linkedin.com/in/harsh-kumar-49195b3a1/)
 - GitHub: [@your-username](https://github.com/your-username)
-- Email: Harsh Kumar.baluni@example.com
+- Email: Harshkumar@example.com
 
 ## 🙏 Acknowledgments
 

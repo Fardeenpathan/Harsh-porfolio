@@ -48,7 +48,7 @@ export default function ContactSection() {
                     {
                       icon: <Phone className="w-6 h-6" />,
                       title: "Phone", 
-                      value: "9354983769",
+                      value: "+91-9625694892",
                       link: `mailto:${PERSONAL_INFO.email}`
                     },
                     {
@@ -87,7 +87,7 @@ export default function ContactSection() {
                   {[
                     { label: "Response Time", value: "24h", icon: "🚀" },
                     { label: "Client Satisfaction", value: "100%", icon: "⭐" },
-                    { label: "Years Experience", value: "2+", icon: "💼" },
+                    { label: "Years Experience", value: "5+", icon: "💼" },
                     { label: "Projects Done", value: "15+", icon: "🎯" }
                   ].map((stat, index) => (
                     <motion.div
@@ -134,7 +134,7 @@ export default function ContactSection() {
                   whileTap={{ scale: 0.95 }}
                 >
                   <ArrowRight className="w-5 h-5 mr-2" />
-                  Download Resume
+                
                 </motion.a>
               </div>
               <p className="text-gray-400 mt-4 text-sm">

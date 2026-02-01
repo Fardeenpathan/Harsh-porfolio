@@ -4,7 +4,7 @@ export const TESTIMONIALS_DATA = [
     name: 'Team Lead, Dvertex Info',
     role: 'Technical Team Lead',
     company: 'Dvertex Info Private Limited',
-    quote: "Nishchal consistently delivers high-quality code and has been instrumental in building our SaaS platform. His technical expertise and problem-solving abilities make him a valuable team member.",
+    quote: "Harsh Kumar consistently delivers high-quality code and has been instrumental in building our SaaS platform. His technical expertise and problem-solving abilities make him a valuable team member.",
     rating: 5
   },
   {
@@ -12,7 +12,7 @@ export const TESTIMONIALS_DATA = [
     name: 'Project Manager',
     role: ' Project Manager',
     company: 'Dvertex Info Private Limited',
-    quote: "Working with Nishchal has been exceptional. He understands business requirements quickly and delivers solutions that exceed expectations. His communication skills are excellent.",
+    quote: "Working with Harsh Kumar has been exceptional. He understands business requirements quickly and delivers solutions that exceed expectations. His communication skills are excellent.",
     rating: 5
   },
   {
@@ -20,7 +20,7 @@ export const TESTIMONIALS_DATA = [
     name: 'Engineering Mentor',
     role: ' Software Engineer',
     company: 'Siemens Energy',
-    quote: "During his internship, Nishchal showed remarkable learning ability and professional maturity. He adapted quickly to enterprise-level development practices and contributed meaningfully to our projects.",
+    quote: "During his internship, Harsh Kumar showed remarkable learning ability and professional maturity. He adapted quickly to enterprise-level development practices and contributed meaningfully to our projects.",
     rating: 5
   }
 ]

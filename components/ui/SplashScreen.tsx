@@ -149,7 +149,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.1, duration: 0.5 }}
                 >
-                  Nishchal
+                  Harsh Kumar
                 </motion.span>
                 {' '}
                 <motion.span

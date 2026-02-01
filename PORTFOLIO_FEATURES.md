@@ -21,10 +21,10 @@
 ### 💼 **Updated Professional Information**
 
 #### Contact Details:
-- **Email**: nishchalbaluni25@gmail.com
-- **Location**: Pratap Vihar, Ghaziabad, UP 201009
-- **LinkedIn**: [linkedin.com/in/nishchal-baluni-0a7438207/](https://linkedin.com/in/nishchal-baluni-0a7438207/)
-- **GitHub**: [github.com/Nishchal-1125](https://github.com/Nishchal-1125)
+- **Email**: harshitdeveloper01@gmail.com
+- **Location**: Delhi, India
+- **LinkedIn**: [linkedin.com/in/harsh-kumar-49195b3a1/](https://www.linkedin.com/in/harsh-kumar-49195b3a1/)
+- **GitHub**: [github.com/Harsh Kumar-1125](https://github.com/Harsh Kumar-1125)
 
 #### Work Experience:
 1. **Software Engineer at Dvertex Info Private Limited** (Feb 2024 - Present)
@@ -49,7 +49,7 @@
 
 ### 📥 **Resume Download**
 - One-click PDF download functionality
-- Downloads your actual resume: `Nishchal_Resume.pdf`
+- Downloads your actual resume: `Harsh-kumar_Resume.pdf`
 - Available in hero section and contact area
 
 ### 🎨 **Design Improvements**

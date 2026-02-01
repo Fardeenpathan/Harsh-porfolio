@@ -253,7 +253,7 @@ export default function HeroSection() {
                   animate={{ rotate: 360 }}
                   transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
                 >
-                  NB
+                  HK
                 </motion.div>
                 <h3 className={`text-2xl font-bold mb-2 transition-colors duration-300 ${
                   isDarkMode ? 'text-white' : 'text-gray-900'

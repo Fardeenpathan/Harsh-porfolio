@@ -30,11 +30,11 @@ export const metadata: Metadata = {
     'AWS',
     'System Architecture'
   ].join(', '),
-  authors: [{ name: 'Harsh Kumar', url: 'https://linkedin.com/in/nishchal-baluni-0a7438207/' }],
+  authors: [{ name: 'Harsh Kumar', url: 'https://www.linkedin.com/in/harsh-kumar-49195b3a1/' }],
   openGraph: {
     title: 'Harsh Kumar -  Software Engineer | Full-Stack Developer',
     description: ' Software Engineer with 2+ years experience building enterprise solutions that serve 10,000+ users. Expert in React.js, Node.js, and modern web technologies.',
-    url: 'https://nishchal-baluni.vercel.app',
+    url: 'https://harsh-porfolio-five.vercel.app/',
     siteName: 'Harsh Kumar Portfolio',
     type: 'website',
     locale: 'en_US',

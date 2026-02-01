@@ -28,11 +28,11 @@ const Intro = () =>{
                   
                    
 
-                    <a href='https://www.linkedin.com/in/nishchal-baluni-0a7438207/'>
+                    <a href='https://www.linkedin.com/in/harsh-kumar-49195b3a1/'>
                     <img src={Github} alt=""/></a>
-                    <a href='https://www.linkedin.com/in/nishchal-baluni-0a7438207/'>
+                    <a href='https://www.linkedin.com/in/harsh-kumar-49195b3a1/'>
                     <img src={LinkedIn} alt=""/></a>
-                    <a href='https://www.linkedin.com/in/nishchal-baluni-0a7438207/' blank>
+                    <a href='https://www.linkedin.com/in/harsh-kumar-49195b3a1/' blank>
                     <img src={Instagram} alt=""/></a>
                 </div>
 

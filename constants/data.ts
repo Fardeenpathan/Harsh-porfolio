@@ -2,11 +2,11 @@ export const PERSONAL_INFO = {
   name: 'Harsh Kumar',
   title: ' Software Engineer',
   tagline: 'Building scalable, enterprise-grade solutions that drive business growth',
-  email: 'nishchalbaluni25@gmail.com',
-  location: 'Pratap Vihar, Ghaziabad, NCR, India',
-  linkedin: 'https://linkedin.com/in/nishchal-baluni-0a7438207/',
-  github: 'https://github.com/Nishchal-1125',
-  resume: '/Nishchal_Resume.pdf',
+  email: 'harshitdeveloper01@gmail.com',
+  location: 'Delhi, India',
+  linkedin: 'https://www.linkedin.com/in/harsh-kumar-49195b3a1/',
+  github: 'https://github.com/Harsh Kumar-1125',
+  resume: '/Harsh-kumar_Resume.pdf',
   yearsOfExperience: 2,
   projectsCompleted: 25,
   technologiesMastered: 20,
@@ -181,8 +181,8 @@ export const PROJECTS_DATA = [
   //     accessibility: '100%',
   //     seo: '100%'
   //   },
-  //   github: 'https://github.com/Nishchal-1125/portfolio',
-  //   demo: 'https://nishchal-baluni.vercel.app',
+  //   github: 'https://github.com/Harsh Kumar-1125/portfolio',
+  //   demo: 'https://harsh-porfolio-five.vercel.app/',
   //   status: 'Live'
   // }
 ]

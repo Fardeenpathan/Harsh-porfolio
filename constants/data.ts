@@ -10,7 +10,7 @@ export const PERSONAL_INFO = {
   yearsOfExperience: 5,
   projectsCompleted: 25,
   technologiesMastered: 20,
-  clientsSatisfied: 15
+  clientsSatisfied: 100
 }
 
 export const EXPERIENCE_DATA = [

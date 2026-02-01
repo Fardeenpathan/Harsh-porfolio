@@ -18,7 +18,7 @@ const Intro = () =>{
             <div className='i-left'>
                 <div className="i-name">
                     <span> Hy! I am </span>
-                    <span>Nishchal Baluni</span>
+                    <span>Harsh Kumar</span>
                     <span>Full Stack Developer with good quality
                          of designing and skills</span>
                 </div>

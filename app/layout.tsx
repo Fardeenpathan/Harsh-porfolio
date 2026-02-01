@@ -5,10 +5,10 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Nishchal Baluni -  Software Engineer | Full-Stack Developer',
-  description: 'Professional portfolio of Nishchal Baluni,  Software Engineer at Dvertex Info with 2+ years experience building enterprise solutions. Expertise in React.js, Node.js, TypeScript, and scalable web applications serving 10,000+ users.',
+  title: 'Harsh Kumar -  Software Engineer | Full-Stack Developer',
+  description: 'Professional portfolio of Harsh Kumar,  Software Engineer at Dvertex Info with 2+ years experience building enterprise solutions. Expertise in React.js, Node.js, TypeScript, and scalable web applications serving 10,000+ users.',
   keywords: [
-    'Nishchal Baluni',
+    'Harsh Kumar',
     ' Software Engineer',
     'Full Stack Developer',
     'React.js',
@@ -30,18 +30,18 @@ export const metadata: Metadata = {
     'AWS',
     'System Architecture'
   ].join(', '),
-  authors: [{ name: 'Nishchal Baluni', url: 'https://linkedin.com/in/nishchal-baluni-0a7438207/' }],
+  authors: [{ name: 'Harsh Kumar', url: 'https://linkedin.com/in/nishchal-baluni-0a7438207/' }],
   openGraph: {
-    title: 'Nishchal Baluni -  Software Engineer | Full-Stack Developer',
+    title: 'Harsh Kumar -  Software Engineer | Full-Stack Developer',
     description: ' Software Engineer with 2+ years experience building enterprise solutions that serve 10,000+ users. Expert in React.js, Node.js, and modern web technologies.',
     url: 'https://nishchal-baluni.vercel.app',
-    siteName: 'Nishchal Baluni Portfolio',
+    siteName: 'Harsh Kumar Portfolio',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Nishchal Baluni -  Software Engineer',
+    title: 'Harsh Kumar -  Software Engineer',
     description: ' Software Engineer with expertise in React.js, Node.js, and enterprise solutions',
   },
   robots: {

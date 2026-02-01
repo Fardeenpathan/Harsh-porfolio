@@ -1,5 +1,5 @@
 export const PERSONAL_INFO = {
-  name: 'Nishchal Baluni',
+  name: 'Harsh Kumar',
   title: ' Software Engineer',
   tagline: 'Building scalable, enterprise-grade solutions that drive business growth',
   email: 'nishchalbaluni25@gmail.com',

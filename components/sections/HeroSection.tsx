@@ -82,7 +82,7 @@ export default function HeroSection() {
               <span className={isDarkMode ? 'text-white' : 'text-gray-900'}>Hi, I'm </span>
               <TypeAnimation
                 sequence={[
-                  'Nishchal Baluni',
+                  'Harsh Kumar',
                   4000,
                   'a  Software Engineer',
                   3000,

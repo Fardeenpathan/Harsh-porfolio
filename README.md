@@ -1,4 +1,4 @@
-# 🚀 Nishchal Baluni - Portfolio Website
+# 🚀 Harsh Kumar - Portfolio Website
 
 A modern, responsive portfolio website built with **Next.js 14**, **Framer Motion**, and **Tailwind CSS**. Features advanced animations, scroll effects, custom cursor, and a fully responsive design.
 
@@ -208,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Nishchal Baluni**
+**Harsh Kumar**
 - LinkedIn: [nishchal-baluni-0a7438207](https://www.linkedin.com/in/nishchal-baluni-0a7438207/)
 - GitHub: [@your-username](https://github.com/your-username)
 - Email: nishchal.baluni@example.com

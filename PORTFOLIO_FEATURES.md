@@ -1,4 +1,4 @@
-# Nishchal Baluni - Enhanced Portfolio Features
+# Harsh Kumar - Enhanced Portfolio Features
 
 ## 🎉 New Features Added
 
